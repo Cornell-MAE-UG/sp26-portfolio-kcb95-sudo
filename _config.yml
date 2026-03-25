@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Your Name
+title                    : Kaya Beckles
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : Your Name
-description              : Your Name - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+name                     : Kaya Beckles 
+description              :Kaya Beckles - Projects and CV 
+baseurl                  : "" "/sp26-portfolio-kcb95-sudo" # Set this to your repo namee 
 
 # Theme and Style
 theme: jekyll-theme-minimal
