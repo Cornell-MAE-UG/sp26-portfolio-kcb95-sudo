@@ -2,7 +2,7 @@
 title: Nutcracker Problem
 layout: project 
 description: Analysis and Design of a Nutcracker
-image: /assets/nutcracker-FBD.jpg
+image: /assets/images/nutcrackerFBD.jpg
 --- 
 
 Find: Dimensions of Nutcracker, Size of Nut, Average Force to crack nut, Mechanical Advantage 
